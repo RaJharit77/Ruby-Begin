@@ -1,3 +1,3 @@
-name = "RaJharit77";
+name = "RaJharit77"
 
-puts "Hello " + name;
+puts "Hello " + name
